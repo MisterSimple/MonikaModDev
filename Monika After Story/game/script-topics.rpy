@@ -7025,7 +7025,7 @@ init 5 python:
     addEvent(Event(persistent.event_database,eventlabel="monika_1984",category=['literature'],prompt="Nineteen Eighty-Four",random=True))
 
 label monika_1984:
-    m 1eua "[player], do you know about the book '{i}Nineteen Eighty-Four?{/i}'"
+    m 1eua "[player], do you know about the book {i}Nineteen Eighty-Four?{/i}"
     m 3eua "It was written by George Orwell."
     m 1euc "It's a popular book about mass surveillance and the oppression of free thought."
     m 1esc "It's about a terrifying dystopia where the past and the present are being changed to whatever the ruling party wants for the future."
