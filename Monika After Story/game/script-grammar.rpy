@@ -199,7 +199,7 @@ label monika_gtod_tip004:
     m 3eub "The semicolon!"
     m 3eua "Some interesting things have been written about semicolons, including this from the author Lewis Thomas..."
     m 1esd "'{i}Sometimes you get a glimpse of a semicolon coming, a few lines farther on, and it is like climbing a steep path through woods and seeing a wooden bench just at a bend in the road ahead...{/i}'"
-    m 1esa "'...{i}a place where you can expect to sit for a moment, catching your breath.{/i}'"
+    m 1esa "'{i}...a place where you can expect to sit for a moment, catching your breath.{/i}'"
     m 1hua "I really appreciate how eloquently he describes something as simple as a punctuation mark!"
     m 1euc "Some people think you can use a semicolon as a substitute for a colon, while others treat it as a period..."
     m 1esd "If you recall our talk on clauses, the semicolon is actually meant to connect two independent clauses."
